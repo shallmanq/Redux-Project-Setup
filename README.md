@@ -1,8 +1,12 @@
-# React + Vite
+# React + Redux + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a little Counter Project using React and Redux Toolkit code.
 
-Currently, two official plugins are available:
+The purpose of this project is to have a basic React and Redux file structure set up for your projects.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## INSTRUCTIONS
+
+You can clone this project to use as a template or a starter repository for your React/Redux project.
+
+
+
