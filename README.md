@@ -2,7 +2,7 @@
 
 This is a little Counter Project using React and Redux Toolkit code.
 
-The purpose of this project is to have a basic React and Redux file structure set up for your projects.
+The purpose of this project is to have a basic React and Redux file structure set up or boilerplate for your projects.
 
 ## INSTRUCTIONS
 
